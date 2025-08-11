@@ -10,6 +10,10 @@ export const SummaryContainer = styled.section`
   grid-template-columns: repeat(3, 1fr);
   gap: 2rem;
 
+  align-items: center;
+  grid-auto-flow: column;
+  overflow-x: auto;
+
   margin-top: -5rem;
 `;
 
