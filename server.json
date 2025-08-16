@@ -15,6 +15,14 @@
       "category": "Venda",
       "price": 45,
       "createdAt": "2025-08-12T19:35:44.505Z"
+    },
+    {
+      "description": "Compras mercado",
+      "category": "Alimentação",
+      "type": "outcome",
+      "price": 329,
+      "createdAt": "2025-08-16T17:24:38.436Z",
+      "id": 3
     }
   ]
 }
